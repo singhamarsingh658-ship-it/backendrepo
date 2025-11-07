@@ -1,0 +1,5 @@
+# Created at 2025-10-28T20:19:24.980
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Github notes spark2.0\Quiz-App-Spark2.0-main\Quiz-App-Spark2.0-main\quiz\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
